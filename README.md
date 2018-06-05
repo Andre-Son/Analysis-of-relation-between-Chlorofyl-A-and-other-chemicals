@@ -1,1 +1,1 @@
-# Analysis-of-relation-between-Chlorofyl-A-and-other-chemicals
+# Data-science-analysis-Chlorofyl-A-and-other-chemicals
